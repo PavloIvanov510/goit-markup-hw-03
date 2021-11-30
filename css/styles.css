@@ -42,10 +42,13 @@ img {
   /* outline: 1px solid tomato; */
 }
 /* header-style-global */
-
+.header-line {
+  border-bottom: 1px solid #e5e5e5;
+}
 .header-nav {
   display: flex;
   align-items: center;
+  /* border-bottom: 1px solid #e5e5e5; */
 }
 .logo {
   font-family: "Raleway", sans-serif;
