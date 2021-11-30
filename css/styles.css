@@ -113,8 +113,9 @@ img {
   /* border: 1px solid tomato; */
 }
 .nav-studio {
+  height: 600px;
   padding-top: 200px;
-  padding-bottom: 280px;
+  /* padding-bottom: 280px; */
 }
 .caption-studio {
   /* outline: 1px solid #2196f3; */
@@ -190,6 +191,9 @@ img {
   color: var(--color-silver);
 }
 /* photo-studio */
+.nav-photo {
+  padding-bottom: 94px;
+}
 .photo-title {
   margin-bottom: 50px;
 
@@ -258,9 +262,9 @@ img {
 .footer-bgcolor {
   background-color: #2f303a;
 }
-.main-footer {
-  /* background-color: #2f303a; */
-}
+/* .main-footer {
+ background-color: #2f303a; 
+}*/
 .logo-footer {
   display: inline-block;
   margin-top: 60px;
@@ -314,7 +318,7 @@ img {
 .btn-list .btn {
   display: inline-block;
   border: transparent;
-  border: 1px solid transparent;
+  /* border: 1px solid transparent; */
   border-radius: 4px;
   padding: 6px 22px;
 
